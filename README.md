@@ -5,7 +5,7 @@ Hello there, I'm NotHansCYDIa. I live in the philippines and I currently know ho
  
 <h2>Projects</h2>
 
-<details><summary><b><a href="google.com">Reconfigurationed</a></b></summary>
+<details><summary><b><a href="https://github.com/NotHansCYDIa/Reconfigurationed">Reconfigurationed</a></b></summary>
 <p>
 
 ```markdown
