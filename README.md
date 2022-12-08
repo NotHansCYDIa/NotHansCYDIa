@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm NotHansCYDIa!</h1>
 
-I currently know [<img src="https://img.shields.io/badge/C++-Basics-COLOR.svg?logo=cplusplus">](<LINK>)
-
+Hello there, I'm NotHansCYDIa. I live in the philippines and I currently know how to program <b>C, C++, C#, Obj-C Python, Javascript, Json, SwiftUI, HTML, CSS and Lua</b>
+  
 <!---!
 
 NotHansCYDIa/NotHansCYDIa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
