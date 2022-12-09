@@ -2,6 +2,8 @@
 
 Hello there, I'm NotHansCYDIa. I live in the philippines and I currently know how to program <b>C, C++, C#, Obj-C, Python, Javascript, Json, SwiftUI, HTML, CSS and Lua</b>. MY Friends are <b>Icy-Crabby, E01vlD, P1X3LX and PM</b>.
   
+  Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
+  
  
 <h2>Projects</h2>
 
