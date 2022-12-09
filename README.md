@@ -17,7 +17,7 @@ Hello there, I'm NotHansCYDIa. I live in the philippines and I currently know ho
 # Compatible
 | MacOS: Compatible
 | Linux: Compatible
-| Windows: Incompatible
+| Windows: Compatible (Only Method)
 ```
 
 
