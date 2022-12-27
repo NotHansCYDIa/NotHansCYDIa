@@ -20,7 +20,28 @@ Hello there, I'm NotHansCYDIa. I live in the philippines and I currently know ho
 | Windows: Compatible (Only Method)
 ```
 
+</p>
+</details>
 
+
+<details><summary><b><a href="https://github.com/NotHansCYDIa/">onModuled</a></b></summary>
+<p>
+
+```markdown
+
+# onModuled
+| A Fast Non-Sideload APT Package Manager
+| made with SwiftUI on a macOS
+
+# Compatible
+| iOS: Compatible
+| macOS: Incompatible 
+| tvOS: Incompatible
+| watchOS: Incompatible
+
+# Details
+| Currently: Working In Progress
+```
 
 </p>
 </details>
