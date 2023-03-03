@@ -10,18 +10,6 @@
          "tintColor": "#FF9500",
          "views": [
             {
-               
-               "class": "DepictionScreenshotsView",
-               "screenshot": "https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/Untitled.001.png?raw=true",
-               "itemSize": "1920, 1920",
-               "itemCornerRadius": "10"
-               "screenshots": [
-                  "url": "https://raw.githubusercontent.com/NotHansCYDIa/NotHansCYDIa/main/Icons/Untitled.001.png",
-                  "accessibilityText": "Screenshot 1"
-                  
-               ]
-            },
-            {
                "class": "DepictionHeaderView",
                "title": "1nputReturn"
             },
