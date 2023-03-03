@@ -45,7 +45,7 @@
          "views": [
             {
                "class": "DepictionMarkdownView",
-               "markdown": "## Beta Release 1.0.0\n- The First release.. ---"
+               "markdown": "## Beta Release 1.0.0\n- The First Beta release.. ---"
 
             }
             
