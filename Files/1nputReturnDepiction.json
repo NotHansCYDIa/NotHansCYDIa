@@ -10,12 +10,27 @@
          "tintColor": "#FF9500",
          "views": [
             {
+               "class": "DepictionImageView",
+               "URL": "https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/Untitled.001.png?raw=true",
+               "width": "1920.0",
+               "height": "1920.0",
+               "cornerRadius": "12.0"
+            },
+            {
                "class": "DepictionHeaderView",
                "title": "1nputReturn"
             },
             {
                "class": "DepictionMarkdownView",
                "markdown": "a terminal command that was made for fun..\nYou can run \"1nputReturn\" and see all of the commands."
+            },
+            {
+               "class": "DepictionSpacerView",
+               "spacing": "0.5"
+            },
+            {
+               "class": "DepictionSubheaderView",
+               "title": "Information"
             },
             {
                "class": "DepictionTableButtonView",
