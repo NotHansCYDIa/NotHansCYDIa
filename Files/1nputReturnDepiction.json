@@ -1,0 +1,20 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "headerImage": "https://raw.githubusercontent.com/NotHansCYDIa/NotHansCYDIa/main/Icons/lnputreturnbanner2.001.png",
+  "tintColor": "#6264D3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Testing 123"
+        },
+        // ... more views can be added here.
+      ],
+        // ... more pages can be added here.
+    }
+  ]
+}
