@@ -11,9 +11,9 @@
         {
           "class": "DepictionHeaderView",
           "title": "This is an example "
-        },
+        }
         // ... more views can be added here.
-      ],
+      ]
         // ... more pages can be added here.
     }
   ]
