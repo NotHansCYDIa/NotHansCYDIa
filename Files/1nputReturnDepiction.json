@@ -1,16 +1,16 @@
 {
   "minVersion": "0.4",
   "class": "DepictionTabView",
-  "headerImage": "https://raw.githubusercontent.com/NotHansCYDIa/NotHansCYDIa/main/Icons/lnputreturnbanner2.001.png",
+  "headerImage": "https://example.com/banner.png",
   "tintColor": "#6264D3",
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "Details",
+      "tabname": "Example page",
       "views": [
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "Testing 123"
+          "class": "DepictionHeaderView",
+          "title": "This is an example "
         },
         // ... more views can be added here.
       ],
