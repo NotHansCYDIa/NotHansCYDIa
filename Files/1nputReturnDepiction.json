@@ -19,7 +19,7 @@
             },
             {
                "class": "DepictionSpacerView",
-               "spacing": "1.8"
+               "spacing": "1.5"
             },
             {
                "class": "DepictionMarkdownView",
@@ -44,7 +44,7 @@
          "views": [
             {
                "class": "DepictionMarkdownView",
-               "title": "## Beta Release 1.0.0\n- The First release.. ---"
+               "markdown": "## Beta Release 1.0.0\n- The First release.. ---"
 
             }
             
