@@ -10,6 +10,8 @@
          "tintColor": "#FF9500",
          "views": [
             {
+               "class": "DepictionHeaderView",
+               "title": "This is an example ",
                "class": "DepictionMarkdownView",
                "markdown": "# 1nputReturn\nA terminal command that was made for fun.."
             }
