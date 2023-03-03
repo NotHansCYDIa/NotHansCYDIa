@@ -15,8 +15,8 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "markdown": "# 1nputReturn\nA terminal command that was made for fun.."
-            },
+               "markdown": "a terminal command that was made for fun.."
+            }
          ]
       }
    ]
