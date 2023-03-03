@@ -22,7 +22,9 @@
                "title": "Documentation",
                "action": "https://google.com/"
             }
-         ],
+         ]
+      },
+      {
          "tabname": "Changelog",
          "class": "DepictionStackView",
          "tintColor": "#FF9500",
