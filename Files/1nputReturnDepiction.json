@@ -18,6 +18,13 @@
                "markdown": "a terminal command that was made for fun..\nYou can run \"1nputReturn\" and see all of the commands."
             },
             {
+               "class": "DepictionImageView",
+               "URL": "https://raw.githubusercontent.com/NotHansCYDIa/NotHansCYDIa/main/Icons/lnputreturnbanner2.001.png",
+               "width": "300.0",
+               "height": "120.0",
+               "cornerRadius": "18.0"
+            },
+            {
                "class": "DepictionTableButtonView",
                "title": "Documentation",
                "action": "https://google.com/"
@@ -36,7 +43,7 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "markdown": "- Literally just released the package.\n- Removed Eevees to clesr up storage (joke)"
+               "markdown": "- Literally just released the package."
 
             }
          ]
