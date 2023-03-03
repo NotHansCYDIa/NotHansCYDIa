@@ -18,10 +18,6 @@
                "markdown": "a terminal command that was made for fun..\nYou can run \"1nputReturn\" and see all of the commands."
             },
             {
-               "class": "DepictionSpacerView",
-               "spacing": "1.5"
-            },
-            {
                "class": "DepictionMarkdownView",
                "markdown": "---\n## Information"
             },
