@@ -15,7 +15,12 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "markdown": "a terminal command that was made for fun.."
+               "markdown": "a terminal command that was made for fun..\nYou can run \"1nputReturn\" and see all of the commands."
+            },
+            {
+               "class": "DepictionTableButtonView",
+               "title": "Documentation",
+               "action": "https://google.com/"
             }
          ]
       }
