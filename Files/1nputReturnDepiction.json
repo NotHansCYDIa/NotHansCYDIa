@@ -22,6 +22,21 @@
                "title": "Documentation",
                "action": "https://google.com/"
             }
+         ],
+         "tabname": "Changelog",
+         "class": "DepictionStackView",
+         "tintColor": "#FF9500",
+         "views": [
+            }
+               "class": "DepictionSubheaderView",
+               "title": "Beta Release 1.0.0"
+
+            {,
+            }
+               "class": "DepictionMarkdownView",
+               "markdown": "- Literally just released the package."
+
+            {
          ]
       }
    ]
