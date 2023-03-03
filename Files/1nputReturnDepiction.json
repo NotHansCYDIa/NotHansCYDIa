@@ -11,7 +11,7 @@
          "views": [
             {
                "class": "DepictionHeaderView",
-               "title": "This is an example "
+               "title": "1nputReturn"
             },
             {
                "class": "DepictionMarkdownView",
