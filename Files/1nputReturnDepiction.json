@@ -31,11 +31,16 @@
             },
             {
                "class": "DepictionSpacerView",
-               "spacing": "0.5"
+               "spacing": "1.8"
             },
             {
                "class": "DepictionMarkdownView",
-               "title": "## Information"
+               "title": "---\n## Information"
+            },
+            {
+               "class": "DepictionTableTextView",
+               "title": "Compatible",
+               "text": "iOS 15 or later"
             },
             {
                "class": "DepictionTableButtonView",
@@ -50,15 +55,10 @@
          "tintColor": "#FF9500",
          "views": [
             {
-               "class": "DepictionHeaderView",
-               "title": "Beta Release 1.0.0"
-
-            },
-            {
                "class": "DepictionMarkdownView",
-               "markdown": "- Literally just released the package."
+               "title": "## Beta Release 1.0.0\n- First release.. ---"
 
-            },
+            }
             
          ]
       }
