@@ -27,6 +27,11 @@
                "text": "iOS 15 or later"
             },
             {
+               "class": "DepictionTableTextView",
+               "title": "Version",
+               "text": "1.0.0-beta"
+            },
+            {
                "class": "DepictionTableButtonView",
                "title": "Documentation",
                "action": "https://google.com/"
