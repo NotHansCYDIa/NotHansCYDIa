@@ -23,7 +23,7 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "title": "---\n## Information"
+               "markdown": "---\n## Information"
             },
             {
                "class": "DepictionTableTextView",
