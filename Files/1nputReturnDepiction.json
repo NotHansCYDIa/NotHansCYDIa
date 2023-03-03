@@ -1,11 +1,11 @@
-"//comment": "lol"
+"_comment": "lol"
 
 {
    "minVersion": "0.1",
    "class": "DepictionTabView",
    "tintColor": "#FF9500",
    "headerImage": "https://raw.githubusercontent.com/NotHansCYDIa/NotHansCYDIa/main/Icons/lnputreturnbanner2.001.png",
-   "tabs": [
+   "tabs": [ 
       {
          "tabname": "Details",
          "class": "DepictionStackView",
