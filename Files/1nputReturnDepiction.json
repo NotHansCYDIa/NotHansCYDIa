@@ -10,11 +10,16 @@
          "tintColor": "#FF9500",
          "views": [
             {
-               "class": "DepictionImageView",
-               "URL": "https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/Untitled.001.png?raw=true",
-               "width": "1920.0",
-               "height": "1920.0",
-               "cornerRadius": "12.0"
+               
+               "class": "DepictionScreenshotsView",
+               "screenshot": "https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/Untitled.001.png?raw=true",
+               "itemSize": "1920, 1920",
+               "itemCornerRadius": "10"
+               "screenshots": [
+                  "url": "https://raw.githubusercontent.com/NotHansCYDIa/NotHansCYDIa/main/Icons/Untitled.001.png",
+                  "accessibilityText": "Screenshot 1"
+                  
+               ]
             },
             {
                "class": "DepictionHeaderView",
@@ -29,8 +34,8 @@
                "spacing": "0.5"
             },
             {
-               "class": "DepictionSubheaderView",
-               "title": "Information"
+               "class": "DepictionMarkdownView",
+               "title": "## Information"
             },
             {
                "class": "DepictionTableButtonView",
