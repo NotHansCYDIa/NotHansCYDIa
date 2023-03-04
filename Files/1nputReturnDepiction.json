@@ -14,8 +14,10 @@
                "itemCornerRadius": "15",
                "itemSize": {1242, 2208},
                "screenshots": [
-                  "url": "https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/IMG_F5400ACB7A1A-1.jpeg?raw=true",
-                  "accessibilityText": "Main screenshot"
+                  {
+                     "url": "https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/IMG_F5400ACB7A1A-1.jpeg?raw=true",
+                     "accessibilityText": "Main screenshot"
+                  }
                ]
             },
             {
