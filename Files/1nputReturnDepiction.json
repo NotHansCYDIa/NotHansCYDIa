@@ -19,7 +19,8 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "markdown": "## Information\n ***",
+               "markdown": "<h2>Information<h2><br><hr>",
+               "useRawFormat": true,
                "useSpacing": false
             },
             {
