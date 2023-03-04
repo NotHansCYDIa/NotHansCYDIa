@@ -20,7 +20,7 @@
             {
                "class": "DepictionMarkdownView",
                "markdown": "--- \n## Information",
-               "useSpacing": False
+               "useSpacing": false
             },
             {
                "class": "DepictionTableTextView",
