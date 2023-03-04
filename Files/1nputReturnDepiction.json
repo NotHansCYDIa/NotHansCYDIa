@@ -29,7 +29,7 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "markdown": "a terminal command that was made for fun..\nYou can run \"1nputReturn\" and see all of the commands."
+               "markdown": "a terminal command that was made for fun..\nThis was made using swift so yea.. btw You can run \"1nputReturn\" and see all of the commands."
             },
             {
                "class": "DepictionSeparatorView"
