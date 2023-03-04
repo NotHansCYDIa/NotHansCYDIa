@@ -19,7 +19,8 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "markdown": "--- \n## Information"
+               "markdown": "--- \n## Information",
+               "useSpacing": "false"
             },
             {
                "class": "DepictionTableTextView",
