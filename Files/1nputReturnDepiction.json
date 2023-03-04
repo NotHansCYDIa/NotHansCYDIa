@@ -19,7 +19,7 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "markdown": "--- \n## Information",
+               "markdown": "___\n## Information",
                "useSpacing": false
             },
             {
