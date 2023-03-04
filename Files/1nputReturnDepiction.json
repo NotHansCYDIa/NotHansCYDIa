@@ -35,8 +35,8 @@
                "class": "DepictionSeparatorView"
             },
             {
-               "class": "DepictionHeaderView",
-               "title": "Information"
+               "class": "DepictionMarkdownView",
+               "markdown": "## Information"
             },
             {
                "class": "DepictionTableTextView",
