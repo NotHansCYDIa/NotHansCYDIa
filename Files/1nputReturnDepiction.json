@@ -11,7 +11,7 @@
          "views": [
             {
                "class": "DepictionScreenshotsView",
-               "itemCornerRadius": "15",
+               "itemCornerRadius": 15,
                "itemSize": {1242, 2208},
                "screenshots": [
                   {
