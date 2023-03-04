@@ -28,7 +28,7 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "markdown": "<h2>Information<h2>",
+               "markdown": "## Information",
                "useSpacing": false
             },
             {
