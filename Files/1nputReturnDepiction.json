@@ -36,22 +36,22 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "markdown": "## Information"
-            },
-            {
-               "class": "DepictionTableTextView",
-               "title": "Compatible",
-               "text": "iOS 15 or later"
+               "markdown": "## Information\n**Released By NotHansCYDIa**"
             },
             {
                "class": "DepictionTableTextView",
                "title": "Version",
-               "text": "1.0.0-beta"
+               "text": "1.0.0"
+            },
+            {
+               "class": "DepictionTableTextView",
+               "title": "Compatible",
+               "text": "iOS 14 or later"
             },
             {
                "class": "DepictionTableButtonView",
-               "title": "Documentation",
-               "action": "https://google.com/"
+               "title": "Twitter",
+               "action": "https://twitter.com/NotHansCYDIa"
             }
          ]
       },
@@ -69,6 +69,24 @@
                "class": "DepictionSeparatorView"
             }
             
+         ]
+      },
+      {
+         "tabname": "Documentation",
+         "class": "DepictionStackView",
+         "tintColor": "#FF9500",
+         "views": [
+            {
+               "class": "DepictionMarkdownView",
+               "title": "# Documentation\nDocumentation on 1nputReturn"
+            },
+            {
+               "class": "DepictionSeparatorView"
+            },
+            {
+               "class": "DepictionMarkdownView",
+               "title": "GG"
+            }
          ]
       }
    ]
