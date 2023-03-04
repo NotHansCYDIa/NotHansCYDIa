@@ -29,7 +29,7 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "markdown": "a terminal command that was made for fun..\nThis was made using swift so yea.. btw You can run \"1nputReturn\" and see all of the commands.\n\n## Documentation\nDocumentation of 1nputReturn\n\nTo start using 1nputReturn run `1nputReturn`. It will show you the main menu. You can do `1nputReturn GET COMMANDS` to see all of the command because this documentation is showing limited commands.\n\n ### Commands\n - `1nputReturn DISABLE <pkgName>` disables a package or a support.\n **Requires InputReturnDiskSupport**\n- `1nputReturn ENABLE <pkgName>` enables a package or a support.\n**Requires InputReturnTweakingSupport and InputReturnDiskSupport**.
+               "markdown": "a terminal command that was made for fun..\nThis was made using swift so yea.. btw You can run \"1nputReturn\" and see all of the commands.\n\n## Documentation\nDocumentation of 1nputReturn\n\nTo start using 1nputReturn run `1nputReturn`. It will show you the main menu. You can do `1nputReturn GET COMMANDS` to see all of the command because this documentation is showing limited commands.\n\n ### Commands\n - `1nputReturn DISABLE <pkgName>` disables a package or a support.\n **Requires InputReturnDiskSupport**\n- `1nputReturn ENABLE <pkgName>` enables a package or a support.\n**Requires InputReturnTweakingSupport and InputReturnDiskSupport**."
             },
             {
                "class": "DepictionSeparatorView"
