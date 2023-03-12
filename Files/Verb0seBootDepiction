@@ -2,7 +2,7 @@
   "minVersion": "0.4",
   "class": "DepictionTabView",
   "headerImage": "https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/banner.001.png?raw=true",
-  "tintColor": "#111111",
+  "tintColor": "#FFFFFF",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -14,11 +14,10 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "VerboseBoot is an app that simulates a verbose boot mode. You can double-tap to open the menu. This app was inspired by the Palera1n verbose boot and made with SwiftUI. It is compatible with iOS 14.6 and above."
+          "markdown": "VerboseBoot is an app that simulates a verbose boot mode. You can double-tap to open the menu. This app was inspired by the Palera1n verbose boot and made with SwiftUI. It is compatible with iOS 14.6 and above.\n\n## Information"
         },
         {
-          "class": "DepictionSubheaderView",
-          "title": "Information"
+          "class": "DepictionSeperatorView"
         },
         {
           "class": "DepictionTableTextView",
