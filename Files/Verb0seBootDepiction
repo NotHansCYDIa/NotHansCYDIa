@@ -9,6 +9,25 @@
       "tabname": "Details",
       "views": [
         {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{500, 900}",
+          "screenshots": [
+            {
+              "accessibilityText": "main screenshot",
+              "url": "https://github.com/NotHansCYDIa/NotHansCYDIa/raw/main/Icons/screenshots/IMG_0144.png"
+            },
+            {
+              "accessibilityText": "configuration screenshot",
+              "url": "https://github.com/NotHansCYDIa/NotHansCYDIa/raw/main/Icons/screenshots/IMG_0145.png"
+            },
+            {
+              "accessibilityText": "other screenshot",
+              "url": "https://github.com/NotHansCYDIa/NotHansCYDIa/raw/main/Icons/screenshots/IMG_0146.png"
+            }
+          ]
+        },
+        {
           "class": "DepictionHeaderView",
           "title": "Verb0seBoot"
         },
