@@ -2,7 +2,7 @@
   "minVersion": "0.4",
   "class": "DepictionTabView",
   "headerImage": "https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/banner.001.png?raw=true",
-  "tintColor": "#5BC236",
+  "tintColor": "#808080",
   "tabs": [
     {
       "class": "DepictionStackView",
