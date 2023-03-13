@@ -1,7 +1,7 @@
 {
   "minVersion": "0.4",
   "class": "DepictionTabView",
-  "headerImage": "https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/banner.001.png?raw=true",
+  "headerImage": "https://github.com/NotHansCYDIa/NotHansCYDIa/raw/main/Icons/bannerlol.001.png",
   "tintColor": "#808080",
   "tabs": [
     {
