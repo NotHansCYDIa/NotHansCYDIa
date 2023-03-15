@@ -33,7 +33,15 @@
           "useSpacing": true
         },
         {
-          "class": "DepictionSeperatorView"
+          "class": "DepictionSpacerView",
+          "spacing": 3.8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionTableTextView",
