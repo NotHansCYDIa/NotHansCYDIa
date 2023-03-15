@@ -29,7 +29,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "# Verb0seBoot\nVerboseBoot is an app that simulates a verbose boot mode. You can double-tap to open the menu. This app was inspired by the Palera1n verbose boot and made with SwiftUI. It is compatible with iOS 14.6 and above.\n\n## Features\n- Realistic Verbose\n- Customizable Background and text color\n- Can add icon on verbose\n- Customizable text size\nText can be inverted by making blending mode difference > (Unstable when using colored background)\n\nThis app was made in 2 days.. More features to Verb0seBoot will be coming soon in the future, this app is currently in beta.....",
+          "markdown": "# Verb0seBoot\nVerboseBoot is an app that simulates a verbose boot mode. You can double-tap to open the menu. This app was inspired by the Palera1n verbose boot and made with SwiftUI. It is compatible with iOS 14.6 and above.\n\n## Features\n- Realistic Verbose\n- Customizable Background and text color\n- Can add icon on verbose\n- Customizable text size\nText can be inverted by making blending mode difference\n\nThis app was made in 2 days.. **NOTE: that if you change the color of the background while the blend mode is difference, the text color might be different from the customized color.** More features to Verb0seBoot will be coming soon in the future, this app is currently in beta.....",
           "useSpacing": true
         },
         {
